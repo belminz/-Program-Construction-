@@ -1,4 +1,4 @@
-# -Program-Construction-
+# -Program-Construction
 Fundamental procedural programming concepts (including recursion and input/output).
 
 Fundamental design principles, problem solving strategies, algorithms and data structures (including abstract data types).
